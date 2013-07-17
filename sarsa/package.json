@@ -1,0 +1,10 @@
+{
+	"name": "rl",
+	"description": "reforsement lerning",
+	"author": "Jigsaw<m@jgs.me>",
+	"version": "0.0.1",
+	"dependencies": {
+		"grunt": "0.4.1",
+		"grunt-contrib-coffee": "0.6.6"
+	}
+}
